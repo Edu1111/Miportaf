@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Miportaf/static/css/main.926402a6.css",
+    "main.js": "/Miportaf/static/js/main.0e8f11f6.js",
+    "static/media/ME.jpg": "/Miportaf/static/media/ME.38d93e04f31c8aba8c29.jpg",
+    "static/media/Metuu.jpg": "/Miportaf/static/media/Metuu.09db39dcbcd9d9b5dda2.jpg",
+    "static/media/Hoja_vida.pdf": "/Miportaf/static/media/Hoja_vida.779cc25372a0dabbec84.pdf",
+    "static/media/crudd.jpg": "/Miportaf/static/media/crudd.24f91202cf6c503d68e5.jpg",
+    "static/media/absolute.png": "/Miportaf/static/media/absolute.e2b48a58a03a5a011b70.png",
+    "static/media/Protected.jpg": "/Miportaf/static/media/Protected.a1f14a23888de1d656a0.jpg",
+    "index.html": "/Miportaf/index.html",
+    "main.926402a6.css.map": "/Miportaf/static/css/main.926402a6.css.map",
+    "main.0e8f11f6.js.map": "/Miportaf/static/js/main.0e8f11f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.926402a6.css",
+    "static/js/main.0e8f11f6.js"
+  ]
+}
